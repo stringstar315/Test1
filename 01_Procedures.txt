@@ -46,7 +46,8 @@ $ git log --author"Frankie"
 
 
 
-
+git rm xxx.txt
+git commit -m "need to commit so that the delete takes effect"
 
 
 
