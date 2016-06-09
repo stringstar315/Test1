@@ -17,8 +17,14 @@ $ git add .
 git add the dot mean current folder
 
 
-to show the difference in files
+to show the difference in files but only show the working and 
+repository. if added. no diff can be viewed
 $ git diff
+
+
+can be option --stage
+$ git diff --stage
+compare stage and repository
 
 
 $ git commit -m "add some comment in the quote"
