@@ -1,0 +1,25 @@
+$ git config --global user.name "Frankie Chan"
+
+$ git config --global user.email "clppong@gmail.com"
+
+$ git config --global color.ui auto
+
+$ git config --global core.editor notepad
+
+$ git config --list
+
+
+navigate to the folder
+$ git init
+-- then the folder would become a master
+
+$ git add .
+git add the dot mean current folder
+
+
+$ git commit -m "add some comment in the quote"
+
+
+
+
+ 
