@@ -9,12 +9,16 @@ $ git config --global core.editor notepad
 $ git config --list
 
 
-navigate to the folder
+to initiate the folder to be a master
 $ git init
 -- then the folder would become a master
 
 $ git add .
 git add the dot mean current folder
+
+
+to show the difference in files
+$ git diff
 
 
 $ git commit -m "add some comment in the quote"
