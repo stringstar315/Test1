@@ -29,6 +29,7 @@ view the log
 
 $ git log
 $ git log --author"Frankie"
+---
 
 
 
