@@ -18,6 +18,26 @@ git add the dot mean current folder
 
 
 $ git commit -m "add some comment in the quote"
+first commit done
+______________________
+
+
+start the second commit
+
+view the log
+
+
+$ git log
+
+
+
+
+
+
+
+
+
+
 
 
 
