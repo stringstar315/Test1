@@ -53,7 +53,13 @@ git commit -m "need to commit so that the delete takes effect"
 
 
 
+$ git remote add [alias] [url]
 
+$ git remote
+
+$ git push -u [alias]
+$ enter login name
+$ enter passwork
 
 
 
