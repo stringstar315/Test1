@@ -42,7 +42,7 @@ $ git log --author"Frankie"
 ---
 
 
-
+$ git checkout .
 
 
 
