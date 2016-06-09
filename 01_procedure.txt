@@ -51,7 +51,7 @@ git rm xxx.txt
 git commit -m "need to commit so that the delete takes effect"
 
 
-start a branch start a branchstart a branch
+start a branch
 
 $ git remote add [alias] [url]
 
