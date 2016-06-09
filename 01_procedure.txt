@@ -44,7 +44,8 @@ $ git log --author"Frankie"
 
 $ git checkout .
 
-
+$ git reset HEAD .
+bring the staged copy back to unstaged copy
 
 git rm xxx.txt
 git commit -m "need to commit so that the delete takes effect"
